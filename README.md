@@ -15,3 +15,4 @@ The dataset consists of structured sales data including order details, products,
 - Pivot Tables
 - Charts & KPIs
 ## Screenshot
+https://github.com/AniquaShaikh07/Excel-Sales-Dashboard/blob/main/Screenshot%202026-01-13%20194144.png
